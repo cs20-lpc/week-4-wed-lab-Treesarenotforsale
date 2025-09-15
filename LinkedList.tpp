@@ -1,3 +1,4 @@
+#include "LinkedList.hpp"
 template <typename T>
 LinkedList<T>::LinkedList()
 : head(nullptr) { }
